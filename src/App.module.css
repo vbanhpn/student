@@ -1,0 +1,8 @@
+.app {
+    max-width: 400px;
+    margin: auto;
+    height: 100vh;
+    /* padding-top: 2vh; */
+    padding-bottom: 2vh;
+    background-color: bisque;
+}
